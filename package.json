@@ -1,0 +1,23 @@
+{
+  "name": "electron-app",
+  "version": "1.0.0",
+  "description": "Electron-App",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SheronSuditha/Electron-App.git"
+  },
+  "author": "SheronSuditha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SheronSuditha/Electron-App/issues"
+  },
+  "homepage": "https://github.com/SheronSuditha/Electron-App#readme",
+  "devDependencies": {
+    "electron": "^6.0.3"
+  }
+}
