@@ -19,5 +19,8 @@
   "homepage": "https://github.com/SheronSuditha/Electron-App#readme",
   "devDependencies": {
     "electron": "^6.0.3"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.0"
   }
 }
